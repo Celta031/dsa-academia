@@ -1,7 +1,5 @@
 # Sistema de Gerenciamento de Academia
 
-![Logo](static/images/logo.png)
-
 Este projeto é um sistema web completo para o gerenciamento de uma academia, desenvolvido como parte da Formação **Engenheiro de Machine Learning** da [Data Science Academy (DSA)](https://www.datascienceacademy.com.br/bundle/formacao-engenheiro-de-machine-learning-4).
 
 ## 📝 Descrição
